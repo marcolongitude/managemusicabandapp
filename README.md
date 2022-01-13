@@ -1,0 +1,2 @@
+# managemusicabandapp
+frontend react native 
